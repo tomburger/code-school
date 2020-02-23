@@ -1,0 +1,40 @@
+.scene {
+    position: fixed;
+    bottom: 5px; left: 5px; right: 5px; top: 150px;
+}
+
+.actor {
+    position: absolute;
+    width: 30px; height: 30px;
+}
+
+.actor.s {
+    width: 20px; height: 20px;
+}
+.actor.m {
+    width: 30px; height: 30px;
+}
+.actor.l {
+    width: 50px; height: 50px;
+}
+.actor.xl {
+    width: 100px; height: 100px;
+}
+
+.aqua      { background-color: aqua; }
+.black     { background-color: black; }
+.blue      { background-color: blue; }
+.fuchsia   { background-color: fuchsia; }
+.gray      { background-color: gray; }
+.grey      { background-color: grey; }
+.green     { background-color: green; }
+.lime      { background-color: lime; }
+.maroon    { background-color: maroon; }
+.navy      { background-color: navy; }
+.olive     { background-color: olive; }
+.purple    { background-color: purple; }
+.red       { background-color: red; }
+.silver    { background-color: silver; }
+.teal      { background-color: teal; }
+.white     { background-color: white; }
+.yellow    { background-color: yellow; }
