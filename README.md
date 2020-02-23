@@ -2,7 +2,7 @@
 
 ## Chapter Suggestion
 
-1. Installation (Git, VS Code, few extensions)
+1. [Installation](chapters/installation.md) (Git, VS Code, few extensions)
 1. Basic structure of HTML (Hx, P, B, I, IMG)
 1. Assigning classes, placing boxes
 1. Variables, assignment (in Setup)
